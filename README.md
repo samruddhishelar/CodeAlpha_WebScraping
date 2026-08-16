@@ -37,4 +37,4 @@ The script visits multiple pages, extracts the data, and saves it into a clean C
   3.A short delay ( time.sleep ) is added between requests to be respectful of the website's server. 
   
   Author
-  Shelar Samtuddhi
+  Shelar Samruddhi
